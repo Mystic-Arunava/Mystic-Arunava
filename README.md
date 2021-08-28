@@ -9,7 +9,7 @@ This is very simple Telegram Videos Merge Bot by [@Arunava](https://t.me/mystic_
 - Others check by your own feeling lazy to describe.
 
 ##Combiner Bot:
-<a href="https://t.me/@MoviePremi2_combiner_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MoviePremi2_combiner_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Deploy to Heroku:
 Just Press Below Button to Deploy!
